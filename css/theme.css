@@ -1,0 +1,23 @@
+
+:root{--navy:#04091e;--navy-d:#04091e;--gold:#fdc632;--gold-l:#fff4cf;--soft:#f6f6ff}
+body{font-family:"Roboto","Noto Sans Devanagari",sans-serif}
+h1,h2,h3,h4,h5{font-family:"Rubik","Noto Sans Devanagari",sans-serif}
+.logo_h img{height:72px;width:auto}
+.header_area .navbar .nav .nav-item .nav-link{font-weight:500}
+.banner_content .tagline{display:inline-block;background:rgba(4,9,30,.85);color:var(--gold);padding:6px 16px;border-radius:30px;font-size:14px;margin-bottom:12px}
+.banner_content h2{font-size:42px;line-height:1.25;text-transform:none}
+.banner_content .sub{font-size:18px;color:#04091e;margin-bottom:26px}
+.btn_gold{color:#04091e}
+.btn_gold:hover{background:#04091e;border-color:#04091e;color:#fff}
+.btn_navy{background:#04091e;border-color:#04091e}
+.batch_card.hot,.offer_band{background:#04091e}
+.section-padding{padding:80px 0}
+.offer_band{background:linear-gradient(120deg,#04091e,#0c1a4d)}
+.batch_card.hot{background:linear-gradient(160deg,#0c1a4d,#04091e)}
+.footer-area{background:#04091e}
+.footer-area p,.footer-area li{color:#aab}
+.footer-area a{color:#dde}
+.footer-area img.fl{width:120px;margin-bottom:12px}
+.footer-area h6{color:#fff;font-weight:600;margin-bottom:16px}
+.footer-area ul{list-style:none;padding:0}
+@media(max-width:991px){.banner_content h2{font-size:28px}}
